@@ -156,7 +156,7 @@
                     android:layout_height="match_parent"
                     android:textAppearance="?android:attr/textAppearanceLarge"
                     android:id="@+id/textView3"
-                    android:layout_weight="10"
+                    android:layout_weight="10.1"
                     android:textColor="#ff3bffb1"
                     android:background="#ff3bffb1" />
 
